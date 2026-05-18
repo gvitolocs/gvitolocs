@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there! 🤘
 
-<!--
-**gvitolocs/gvitolocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Giuseppe**, a developer who likes turning ideas into shipped projects.
 
-Here are some ideas to get you started:
+I design and build things for the web, experiment with new tools, and keep learning by making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something catches my attention, chances are I'll prototype it, polish it, and push it live.
+
+My main focus is building clean, useful, and enjoyable software with modern web technologies.
+
+I use this GitHub to share projects, experiments, and the occasional idea that became real.
+
+If you want to see what I'm working on, check out my pinned repositories below.
+
+### Fun Facts
+
+- I like building things from scratch
+- I care about simple interfaces and solid user experiences
+- I enjoy learning new tools by shipping small projects
+- I'm always exploring better ways to design, code, and automate
