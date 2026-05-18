@@ -2,6 +2,8 @@
 
 I'm **Giuseppe**, a developer based in Aarhus, Denmark.
 
+I'm studying a master's in Computer Engineering at Aarhus University.
+
 I build whatever I can imagine.
 
 If an idea pops into my head, chances are I'll try to build it and ship it.
