@@ -12,7 +12,7 @@ My GitHub is full of small experiments, apps, tools, and projects I made because
 
 I've made things around Pokémon cards, travel projects, personal sites, wallets, and random ideas that were too fun not to try.
 
-I've got a bunch of repos, but a couple I like are [Cardvault](https://cardvault-lemon.vercel.app) and [Hypemeter](https://hypemeter-beta.vercel.app).
+I've got a bunch of repos, but a couple I like are [Cardvault](https://cards.pokoin.com) and [Hypemeter](https://hypemeter-beta.vercel.app).
 
 Some projects are polished, some are rough, and some are just me learning in public.
 
